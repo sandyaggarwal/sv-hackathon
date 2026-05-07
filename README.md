@@ -2,8 +2,14 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.aem.page/
-- Live: https://main--{repo}--{owner}.aem.live/
+- Preview: https://main--sv-hackathon--sandyaggarwal.aem.page
+- Live: https://main--sv-hackathon--sandyaggarwal.aem.live
+
+## Content Creation
+- https://da.live/start?org=sandyaggarwal&site=sv-hackathon
+
+## Admin tool
+- https://labs.aem.live/tools/user-admin/index.html
 
 ## Documentation
 
